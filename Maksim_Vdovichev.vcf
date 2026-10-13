@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Вдовичев;Максим;;;
+FN:Максим Вдовичев
+ORG:Аркобалено Инжиниринг
+TITLE:Менеджер по сопровождению клиентов
+TEL;TYPE=CELL,VOICE:+79254047118
+EMAIL;TYPE=INTERNET,WORK:m.vdovichev@arcoengi.ru
+ADR;TYPE=WORK:;;Рязанский проспект\, д. 10 с18;Моск
+ ва;;;Россия
+URL:https://arcoengi.ru
+URL:https://t.me/arcoengi
+URL:https://t.me/Greatmaxini
+NOTE:Личный Telegram: @Greatmaxini
+END:VCARD
